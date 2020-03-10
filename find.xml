@@ -21,7 +21,7 @@
     <mask>pom.xml</mask>
     <mask>*.ftl</mask>
     <mask>*.</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>
