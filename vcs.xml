@@ -10,6 +10,14 @@
           <option name="url" value="git@gitlab.megeno.net:sorin/webportal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.megeno.net" />
+          <option name="userName" value="danut.pintica@incrys.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.megeno.net/sorin/webportal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
