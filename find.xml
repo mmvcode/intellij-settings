@@ -16,12 +16,12 @@
     <mask>*.mxml</mask>
     <mask>*.ts</mask>
     <mask>*.properties</mask>
-    <mask>*.xsl</mask>
     <mask>*DaoImpl.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.ftl</mask>
     <mask>*.</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>*.ftl</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
