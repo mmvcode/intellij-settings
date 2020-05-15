@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,11 +16,11 @@
     <mask>*DaoImpl.java</mask>
     <mask>pom.xml</mask>
     <mask>*.</mask>
-    <mask>*.py</mask>
     <mask>*.ftl</mask>
     <mask>*.xsl</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.py</mask>
   </component>
 </application>
