@@ -1,27 +1,25 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.ts</mask>
     <mask>*.properties</mask>
     <mask>*DaoImpl.java</mask>
     <mask>pom.xml</mask>
     <mask>*.</mask>
-    <mask>*.py</mask>
     <mask>*.ftl</mask>
     <mask>*.xsl</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
+    <mask>*.py</mask>
   </component>
 </application>
