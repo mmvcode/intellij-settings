@@ -18,8 +18,8 @@
     <mask>*.ftl</mask>
     <mask>*.xsl</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>
