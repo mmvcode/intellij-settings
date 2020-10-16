@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="V7_011__Add_Remark_To_QGQ.sql" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
