@@ -10,8 +10,8 @@
     <mask>*.jsp</mask>
     <mask>*Mapper.java</mask>
     <mask>*.xml</mask>
-    <mask>*Repository.java</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*Repository.java</mask>
   </component>
 </application>
