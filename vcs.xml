@@ -94,6 +94,10 @@
           <option name="url" value="https://danut_pintica@bitbucket.org/incrys-projects/crys-coin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alexandrubujor/matching-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
