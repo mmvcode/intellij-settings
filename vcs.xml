@@ -106,9 +106,17 @@
           <option name="url" value="http://Danut.Pintica@scm.office.orange.intra:7990/stash/scm/acrm/integration-mock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/stash/scm/rom/rom.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://citnet.tech.ec.europa.eu" />
+          <option name="userName" value="n008skpq" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/ce" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
