@@ -142,6 +142,10 @@
           <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/stash/scm/digitdna/dna-demo-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://citnet.tech.ec.europa.eu/CITnet/stash/scm/ams/ams-api-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
