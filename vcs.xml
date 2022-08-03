@@ -162,6 +162,10 @@
           <option name="url" value="https://github.com/dessa-oss/DeepFake-Detection.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bluedrivesolutions/autopapara-skype-bot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
